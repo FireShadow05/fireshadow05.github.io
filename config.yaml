@@ -26,7 +26,7 @@ Menus:
   main:
     - identifier: blog
       name: Publications & Blogs
-      title: Blog posts
+      title: Publications
       url: /blogs
       weight: 1
     # - identifier: gallery
@@ -182,7 +182,7 @@ params:
         company: "Indian Institute of Science"
         companyUrl: "https://aero.iisc.ac.in/people/debasish-ghose/"
         date: "Oct 2023 - present"
-        content: "I am working on implementing computer vision and reinforcement learning-based algorithms for real-life robots at Professor Debasis Ghose’s Lab."
+        content: "I am working on implementing computer vision and reinforcement learning-based algorithms for real-life robots at Professor Debasish Ghose’s Lab."
 
       - job: "Undergraduate Research Intern | Remote"
         company: "Carnegie Mellon University"
