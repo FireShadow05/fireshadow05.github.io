@@ -268,7 +268,7 @@ params:
     items:
       - title: AIKavach
         content: A web app to certify computer vision models and return a more robust model.
-        image: AIKavack_resized_image.jpg
+        image: projects/processed/AIKavach.jpeg
         featured:
           name: Code
           link: https://github.com/dsgiitr/AIKavach/tree/main
@@ -282,7 +282,7 @@ params:
 
       - title: Expert Answers in a Flash
         content: A domain-specific two stage retriever-reader based model for question-answering within 1000ms per query on a T4 GPU.
-        image: /devrev.png
+        image: projects/processed/devrev.png
         featured:
           name: Code
           link: https://github.com/kumar-devesh/DevRev_InterIIT_PS
@@ -295,7 +295,7 @@ params:
 
       - title: Reproducing Coin Flipping Neural Networks
         content: A reproducibility report on ICML paper Coin Flipping Neural Networks.
-        image: /CFNN.png
+        image: projects/processed/CFNN.png
         featured:
           name: Code 
           link: https://github.com/FireShadow05/CFNN
@@ -304,7 +304,7 @@ params:
           - "MLRC'22"
       - title: Face Generator Using GAN's
         content: Built and trained a modified GAN architecture from scratch for anime face generation.
-        image: /anime_face.png
+        image: projects/processed/anime_face.png
         featured:
           name: Code 
           link: https://github.com/FireShadow05/Anime-Face-Generation
